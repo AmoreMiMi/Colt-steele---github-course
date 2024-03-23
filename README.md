@@ -69,7 +69,10 @@ const sum = [1, 2, 3].reduce((acc, curr) => {
 Link - [Link to google](https://www.google.com/)
 Link to text - link first [^1] and link second [^2]
 
+These will always be last (like in books):
 [^1]: Text link 1
 [^2]: Text link 2
 
 Image link - ![link to image](https://img.freepik.com/free-photo/majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai_188544-15662.jpg?t=st=1711212240~exp=1711215840~hmac=dd4e2a475bc5baf618e1f6e7cda022f1fcafd73872789cbf7093f3faebede4ab&w=1380)
+
+Image as link - [![link to image](https://img.freepik.com/free-photo/majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai_188544-15662.jpg?t=st=1711212240~exp=1711215840~hmac=dd4e2a475bc5baf618e1f6e7cda022f1fcafd73872789cbf7093f3faebede4ab&w=1380)](https://img.freepik.com/free-photo/majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai_188544-15662.jpg?t=st=1711212240~exp=1711215840~hmac=dd4e2a475bc5baf618e1f6e7cda022f1fcafd73872789cbf7093f3faebede4ab&w=1380)
