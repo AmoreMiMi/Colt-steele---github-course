@@ -85,3 +85,9 @@ color | quantity | sizes
 red | 1 | S
 green | 5 | M
 blue | 2 | XL
+
+***
+
+# Special symbols
+
+\# Not a heading
