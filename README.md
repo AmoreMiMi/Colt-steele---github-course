@@ -75,7 +75,11 @@ These will always be last (like in books):
 
 Image link - ![link to image](https://img.freepik.com/free-photo/majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai_188544-15662.jpg?t=st=1711212240~exp=1711215840~hmac=dd4e2a475bc5baf618e1f6e7cda022f1fcafd73872789cbf7093f3faebede4ab&w=1380)
 
-Image as link - [![link to image](https://img.freepik.com/free-photo/majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai_188544-15662.jpg?t=st=1711212240~exp=1711215840~hmac=dd4e2a475bc5baf618e1f6e7cda022f1fcafd73872789cbf7093f3faebede4ab&w=1380)](https://img.freepik.com/free-photo/majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai_188544-15662.jpg?t=st=1711212240~exp=1711215840~hmac=dd4e2a475bc5baf618e1f6e7cda022f1fcafd73872789cbf7093f3faebede4ab&w=1380)
+Image as link:
+1. In first () we put a link to image
+2. In second () (when [] ends) we should put a link where to redirect
+
+Sample: [![link to image](https://img.freepik.com/free-photo/majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai_188544-15662.jpg?t=st=1711212240~exp=1711215840~hmac=dd4e2a475bc5baf618e1f6e7cda022f1fcafd73872789cbf7093f3faebede4ab&w=1380)](google.com)
 
 ***
 
