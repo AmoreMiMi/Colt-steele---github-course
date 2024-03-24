@@ -81,6 +81,11 @@ Image as link:
 
 Sample: [![link to image](https://img.freepik.com/free-photo/majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai_188544-15662.jpg?t=st=1711212240~exp=1711215840~hmac=dd4e2a475bc5baf618e1f6e7cda022f1fcafd73872789cbf7093f3faebede4ab&w=1380)](https://google.com)
 
+Image with caption as table: 
+| [![link to image](https://f1.madcapsoftware.com/blogImages/2023/06/photo-instruction-for-use-sample.png?scale.option=fill&w=800&h=0)](https://google.com) |
+|:--:| 
+| Credit image: Top Nav | LiCOR Technical Support Center | LI-600 Porometer/Fluorometer |
+
 ***
 
 # Tables
