@@ -81,6 +81,8 @@ Image as link:
 
 Sample: [![link to image](https://img.freepik.com/free-photo/majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai_188544-15662.jpg?t=st=1711212240~exp=1711215840~hmac=dd4e2a475bc5baf618e1f6e7cda022f1fcafd73872789cbf7093f3faebede4ab&w=1380)](https://google.com)
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 ***
 
 # Tables
